@@ -13,12 +13,12 @@ My flight route took me from **Hong Kong** to **Helsinki**, and then onward to *
 
 <div class="row mb-4">
     <div class="col-md-6">
-        <img src="/assets/images/etc/barcelona_live1.png" class="img-fluid rounded shadow-sm" alt="Helsinki scenery">
-        <p class="text-muted small mt-1 text-center"><i>Helsinki — serene Nordic landscapes</i></p>
+        <img src="/assets/images/etc/barcelona_live1.png" class="img-fluid rounded shadow-sm" alt="Sagrada Familia">
+        <p class="text-muted small mt-1 text-center"><i>Sagrada Familia</i></p>
     </div>
     <div class="col-md-6">
-        <img src="/assets/images/etc/barcelona_live2.png" class="img-fluid rounded shadow-sm" alt="Barcelona streets">
-        <p class="text-muted small mt-1 text-center"><i>Barcelona — vibrant streets and architecture</i></p>
+        <img src="/assets/images/etc/barcelona_live2.png" class="img-fluid rounded shadow-sm" alt="Helsinki streets">
+        <p class="text-muted small mt-1 text-center"><i>Helsinki — serene Nordic landscapes</i></p>
     </div>
 </div>
 

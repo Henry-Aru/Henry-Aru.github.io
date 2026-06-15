@@ -6,6 +6,7 @@ pub:            "IEEE Journal of Biomedical and Health Informatics (JBHI)"
 pub_date:       "2026"
 abstract: >-
   Multi-granularity textual prompts for low-dose brain PET image denoising via adversarial diffusion model.
+cover:          /assets/images/covers/cover_MGTP.jpg
 authors:
   - Jiaqi Cui
   - Xinyi Zeng

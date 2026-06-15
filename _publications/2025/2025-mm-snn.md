@@ -6,6 +6,7 @@ pub:            "ACM Multimedia"
 pub_date:       "2025"
 abstract: >-
   Incorporating the refractory period into spiking neural networks through spike-triggered threshold dynamics.
+cover:          /assets/images/covers/cover_Refractory\ Period\ into\ Spiking\ Neural\ Networks.png
 authors:
   - Yang Li
   - Xinyi Zeng

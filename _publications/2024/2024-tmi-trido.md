@@ -6,6 +6,7 @@ pub:            "IEEE Transactions on Medical Imaging (TMI)"
 pub_date:       "2024"
 abstract: >-
   Prior knowledge-guided triple-domain Transformer-GAN for direct PET reconstruction from low-count sinograms.
+cover:          /assets/images/covers/cover_PriorKnowledge_Trido.jpg
 authors:
   - Jiaqi Cui
   - Pinxian Zeng

@@ -6,6 +6,7 @@ pub:            "IEEE Transactions on Neural Networks and Learning Systems (TNNL
 pub_date:       "2025"
 abstract: >-
   Adaptive hardness-driven augmentation and alignment strategies for multisource domain adaptations.
+cover:          /assets/images/covers/cover_A3MDA.jpg
 authors:
   - Yuting Yang
   - Xinyi Zeng
