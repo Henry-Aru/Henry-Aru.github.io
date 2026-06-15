@@ -2,7 +2,7 @@
 title:          "DBTrans: A Dual-Branch Vision Transformer for Multi-Modal Brain Tumor Segmentation"
 date:           2023-10-01 00:01:00 +0800
 selected:       true
-pub:            "MICCAI 2023"
+pub:            "MICCAI"
 pub_date:       "2023"
 abstract: >-
   We propose DBTrans, a dual-branch vision transformer for multi-modal brain tumor segmentation.

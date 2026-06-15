@@ -2,7 +2,7 @@
 title:          "TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms"
 date:           2023-10-01 00:01:00 +0800
 selected:       false
-pub:            "MICCAI 2023"
+pub:            "MICCAI"
 pub_date:       "2023"
 abstract: >-
   A triple-domain transformer for direct PET reconstruction from low-dose sinograms.
