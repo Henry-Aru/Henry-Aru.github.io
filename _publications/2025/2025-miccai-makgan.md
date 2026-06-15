@@ -6,7 +6,7 @@ pub:            "MICCAI 2025"
 pub_date:       "2025"
 abstract: >-
   We propose MAK-GAN, a multi-level adaptive convolutional kernel framework for asymmetric multi-modal PET reconstruction.
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/cover_MAKGAN.png
 authors:
   - Xinyi Zeng
   - Pinxian Zeng*

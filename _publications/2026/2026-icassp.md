@@ -6,7 +6,7 @@ pub:            "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, 
 pub_date:       "2026"
 abstract: >-
   We propose a dual-path latent diffusion framework with multi-task interaction for CT-to-PET translation and tumor segmentation. Our method achieves state-of-the-art performance on both tasks.
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/cover_Duldiff.jpg
 authors:
   - Pinxian Zeng
   - Xinyi Zeng
