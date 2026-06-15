@@ -8,10 +8,14 @@ abstract: >-
   We propose MAK-GAN, a multi-level adaptive convolutional kernel framework for asymmetric multi-modal PET reconstruction.
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - X. Zeng
-  - P. Zeng (co-first)
-  - Other Author
-  - Other Author
+  - Xinyi Zeng
+  - Pinxian Zeng*
+  - Yan Wang
+  - Jiaqi Cui
+  - Luping Zhou
+  - Caiwen Jiang
+  - Han Zhang
+  - Dinggang Shen
 links:
   Paper: https://doi.org/10.1007/978-3-032-04937-7_31
 ---

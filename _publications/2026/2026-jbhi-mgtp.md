@@ -7,12 +7,10 @@ pub_date:       "2026"
 abstract: >-
   Multi-granularity textual prompts for low-dose brain PET image denoising via adversarial diffusion model.
 authors:
-  - J. Cui
-  - X. Zeng
-  - P. Zeng
-  - Other Author
-  - Other Author
-  - Other Author
+  - Jiaqi Cui
+  - Xinyi Zeng
+  - Pinxian Zeng
+  - Yan Wang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11217972
 ---

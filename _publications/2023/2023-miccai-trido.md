@@ -7,12 +7,11 @@ pub_date:       "2023"
 abstract: >-
   A triple-domain transformer for direct PET reconstruction from low-dose sinograms.
 authors:
-  - J. Cui
-  - P. Zeng
-  - Other Author
-  - Other Author
-  - Other Author
-  - Other Author
+  - Jiaqi Cui
+  - Pinxian Zeng
+  - Xinyi Zeng
+  - Luping Zhou
+  - Yan Wang
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-3-031-43999-5_18
 ---

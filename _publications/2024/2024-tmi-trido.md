@@ -7,12 +7,11 @@ pub_date:       "2024"
 abstract: >-
   Prior knowledge-guided triple-domain Transformer-GAN for direct PET reconstruction from low-count sinograms.
 authors:
-  - J. Cui
-  - P. Zeng
-  - Other Author
-  - Other Author
-  - Other Author
-  - Other Author
+  - Jiaqi Cui
+  - Pinxian Zeng
+  - Xinyi Zeng
+  - Luping Zhou
+  - Yan Wang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10556760
 ---

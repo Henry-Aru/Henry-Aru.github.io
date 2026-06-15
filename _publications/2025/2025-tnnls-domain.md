@@ -7,11 +7,11 @@ pub_date:       "2025"
 abstract: >-
   Adaptive hardness-driven augmentation and alignment strategies for multisource domain adaptations.
 authors:
-  - Y. Yang
-  - X. Zeng
-  - P. Zeng
-  - Other Author
-  - Other Author
+  - Yuting Yang
+  - Xinyi Zeng
+  - Pinxian Zeng
+  - Bin Yan
+  - Yan Wang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/11005486
 ---

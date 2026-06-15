@@ -7,12 +7,9 @@ pub_date:       "2024"
 abstract: >-
   Asymmetric bilateral prompting for text-guided medical image segmentation.
 authors:
-  - X. Zeng
-  - P. Zeng
-  - Other Author
-  - Other Author
-  - Other Author
-  - Other Author
+  - Xinyi Zeng
+  - Pinxian Zeng
+  - Yan Wang
 links:
   Paper: https://link.springer.com/chapter/10.1007/978-3-031-72114-4_6
 ---

@@ -6,14 +6,13 @@ pub:            "IEEE Transactions on Circuits and Systems for Video Technology 
 pub_date:       "2025"
 abstract: >-
   We propose a multi-modal Transformer-GAN with long-short distance attention mechanisms for PET reconstruction using auxiliary MRI.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover1.jpg
 authors:
-  - P. Zeng
-  - Other Author
-  - Other Author
-  - Other Author
-  - Other Author
-  - Other Author
+  - Pinxian Zeng
+  - Xinyi Zeng
+  - Luping Zhou
+  - Chen Zu
+  - Yan Wang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10904905
 ---

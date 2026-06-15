@@ -7,12 +7,12 @@ pub_date:       "2025"
 abstract: >-
   Incorporating the refractory period into spiking neural networks through spike-triggered threshold dynamics.
 authors:
-  - Y. Li
-  - X. Zeng
-  - Z. Xue
-  - P. Zeng
-  - Z. Zhang
-  - Y. Wang
+  - Yang Li
+  - Xinyi Zeng
+  - Ziyu Xue
+  - Pinxian Zeng
+  - Zhen Zhang
+  - Yan Wang
 links:
   Paper: https://dl.acm.org/doi/abs/10.1145/3746027.3755030
 ---

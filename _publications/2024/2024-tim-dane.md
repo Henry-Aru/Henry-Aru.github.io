@@ -7,11 +7,11 @@ pub_date:       "2024"
 abstract: >-
   A dual-level alignment network with ensemble learning for multisource domain adaptation.
 authors:
-  - Y. Yang
-  - L. Wen
-  - P. Zeng
-  - B. Yan
-  - Y. Wang
+  - Yuting Yang
+  - Long Wen
+  - Pinxian Zeng
+  - Bin Yan
+  - Yan Wang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10458977
 ---

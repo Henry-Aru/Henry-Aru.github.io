@@ -7,12 +7,12 @@ pub_date:       "2024"
 abstract: >-
   We propose S3PET, a semi-supervised standard-dose PET image reconstruction method via dose-aware token swap.
 authors:
-  - J. Cui
-  - P. Zeng (co-first)
-  - Y. Xu
-  - X. Wu
-  - J. Zhou
-  - Y. Wang
+  - Jiaqi Cui
+  - Pinxian Zeng*
+  - Yinghui Xu
+  - Xi Wu
+  - Jiliu Zhou
+  - Yan Wang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10672799
 ---
