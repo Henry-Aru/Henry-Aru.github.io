@@ -5,7 +5,7 @@ date: 2026-05-15 10:00:00 +0800
 tags: [Conference, Travel]
 ---
 
-In May 2026, I attended **ICASSP 2026** in Barcelona — my first international conference as a PhD student. It was an incredible journey of learning, networking, and exploration.
+In May 2026, I attended **ICASSP 2026** in Barcelona. It was an incredible journey of learning, networking, and exploration.
 
 ## The Journey: Hong Kong → Helsinki → Barcelona
 
@@ -24,7 +24,7 @@ My flight route took me from **Hong Kong** to **Helsinki**, and then onward to *
 
 ## At the Conference
 
-ICASSP 2026 brought together researchers from all over the world. I presented our work on **"Dual-Path Latent Diffusion with Multi-Task Interaction for CT-to-PET Translation and Tumor Segmentation"**, which was well received by the audience. 
+ICASSP 2026 brought together researchers from all over the world. I presented our work, which was well received by the audience. 
 
 <div class="row mb-4">
     <div class="col-md-6">
