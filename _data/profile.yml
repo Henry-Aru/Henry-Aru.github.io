@@ -5,7 +5,7 @@ navbar_name: "Pinxian Zeng"
 positions:
 - name: Ph.D. Candidate in Computer Science
 - name: University of Macau
-  logo: /assets/images/badges/UM_logo.png  # Logo is optional
+  logo: /assets/images/badges/UM_logo.svg  # Logo is optional
 
 email: "yc57911@um.edu.mo"
 # cv_link: link-to-your-cv-file
@@ -30,12 +30,12 @@ portrait_caption: >-
 
 education:
 - name: University of Macau
-  # logo: /assets/images/badges/UM_logo.png
+  # logo: /assets/images/badges/UM_logo.svg
   position: >-
     Ph.D. in Computer Science and Technology
   date: 2025 - Present
 - name: Sichuan University
-  # logo: /assets/images/badges/SCU_logo.png
+  # logo: /assets/images/badges/SCU_logo.svg
   position: M.ENG. in Artificial Intelligence
   date: 2022 - 2025
 - name: Sichuan University
