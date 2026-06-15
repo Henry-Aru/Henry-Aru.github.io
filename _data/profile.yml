@@ -30,16 +30,16 @@ portrait_caption: >-
 
 education:
 - name: University of Macau
-  # logo: /assets/images/badges/UM.png
+  logo: /assets/images/badges/UM.png
   position: >-
     Ph.D. in Computer Science and Technology
   date: 2025 - Present
 - name: Sichuan University
-  # logo: /assets/images/badges/SCU.jpg
+  logo: /assets/images/badges/SCU.jpg
   position: M.ENG. in Artificial Intelligence
   date: 2022 - 2025
 - name: Sichuan University
-  # logo: /assets/images/badges/SCU.jpg
+  logo: /assets/images/badges/SCU.jpg
   position: B.S. in Computer Science and Technology
   date: 2018 - 2022
 
