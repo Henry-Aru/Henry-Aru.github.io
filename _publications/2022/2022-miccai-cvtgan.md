@@ -6,7 +6,7 @@ pub:            "MICCAI"
 pub_date:       "2022"
 abstract: >-
   We propose 3D CVT-GAN, a 3D convolutional vision transformer-GAN for PET reconstruction.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover_cvtgan.png
 authors:
   - Pinxian Zeng
   - Luping Zhou

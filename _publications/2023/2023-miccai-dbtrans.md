@@ -6,7 +6,7 @@ pub:            "MICCAI"
 pub_date:       "2023"
 abstract: >-
   We propose DBTrans, a dual-branch vision transformer for multi-modal brain tumor segmentation.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/cover_dbtrans.png
 authors:
   - Xinyi Zeng
   - Pinxian Zeng*
