@@ -10,7 +10,7 @@ cover:          /assets/images/covers/cover_Duldiff.jpg
 authors:
   - Pinxian Zeng
   - Xinyi Zeng
-  - Yan Wang
+  - Bob Zhang
 links:
   Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11464494
 ---
