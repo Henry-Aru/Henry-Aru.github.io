@@ -1,6 +1,6 @@
 ---
 title:          "PalmIR: Blind Palmprint Image Restoration with Palm-oriented Mixture-of-Experts and Downstream Alignment for Robust Identification"
-date:           2026-01-01 00:01:00 +0800
+date:           2026-06-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Information Forensics and Security (TIFS)"
 pub_date:       "2026"
