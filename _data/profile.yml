@@ -21,7 +21,7 @@ github: Henry-Aru
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Pinxian Zeng received his B.S. and M.ENG. degrees from Sichuan University. He is currently a Ph.D. candidate in Computer Science at the Faculty of Science and Technology, University of Macau. His primary research interests focus on computer vision, medical image analysis, and medical/biometric image restoration.
+    Pinxian Zeng received his B.S. and M.S. degrees from Sichuan University. He is currently a Ph.D. candidate in Computer Science at the Faculty of Science and Technology, University of Macau. His primary research interests focus on computer vision, medical image analysis, and medical/biometric image restoration. He is also interested in the trending fields like large vision-language model and world model.
   </p>
 
 portrait_url: /assets/images/photos/photo.jpg
@@ -50,6 +50,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: Type-A Scholarship of University of Macau (full funding)
+  date: 2025
 - name: IEEE CIS/RAM Best Student Paper
   date: 2024
 - name: Second-Prize Graduate Academic Scholarship (Sichuan University)
